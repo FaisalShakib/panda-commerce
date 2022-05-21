@@ -20,3 +20,22 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 15px;
+}
+.cat1{
+    background-image: linear-gradient(to right,orange, rgb(243, 243, 20)) ;
+}
+.cat2{
+    background-image: linear-gradient(to right, deeppink, pink );
+}
+.cat3{
+    background-image: linear-gradient(to right, blue,rgb(101, 101, 226));
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
