@@ -39,3 +39,13 @@
 .categories img{
     width: 100px;
 }
+.card{
+    border: none;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+
+}
